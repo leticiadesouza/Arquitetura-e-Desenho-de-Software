@@ -22,17 +22,18 @@ Use o abstract factory quando:
 #### _Diagrama de Classes_:
 ![Abstract Factoy](Abstract_Factory.png)
 
-### Builder
-#### Objetivo:
-#### Diagrama de Classes
 
-### Factory Method
+## Estruturais
 
-_Objetivo_: Encapsular a escolha da classe concreta a ser utilizada na criação de objetos de um determinado tipo.
+Alteram a estrutura, principalmente, no nível de classes e, ainda, diminuem o acoplamento entre os objetos de um sistema orientado a objetos.
 
-_Diagrama de Classes_:
+#### Adapter
 
+Permitir com que um objeto seja substituído por outro 
+Converter a interface de uma classe em outra interface
 
+#### _Objetivo_:
 
-* Prototype
-* Singleton
+#### _Aplicabilidade_:
+
+#### _Diagrama de Classes_:
