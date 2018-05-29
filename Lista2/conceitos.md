@@ -11,4 +11,6 @@ Preocupa-se em produzir as estruturas de software, visando reduzir complexidade.
 
   - Entendimento dos requisitos: levantamento de requisitos e modelo do domínio.
   - Criação ou seleção de uma Arquitetura: identificação dos componentes e suas interações, das dependências de construção e tecnologias que apoiam a implementação.
-  
+  - Representação da arquitetura e divulgação: para permitir aos desenvolvedores e testadores o entendimento da arquitetura.
+  - Implementação da arquitetura: seguindo seus protocolos e estruturas.
+  - Análise e avaliação: verificar a adequação da arquitetura, registrando impactos, riscos e dificuldades, o que servirá para evolução da arquitetura.
